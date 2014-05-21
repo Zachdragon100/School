@@ -5,3 +5,24 @@ Literary Analysis of Social Commentary Essay
 
 []Through the use of selective narration and character interactions Alvarez showcases her opinion on gender roles and shows that in times of extreme mistreatment they can overcome it better than any other time.[]
  
+<TITLE>
+
+<HOOK><TRANSITION><THESIS>
+
+<TOPIC><QUOTE><ANALYSIS>
+
+<TOPIC><QUOTE><ANALYSIS>
+
+<TOPIC><QUOTE><ANALYSIS>
+
+<THESIS><DROP>
+
+
+<hook></hook>
+<transition></transition>
+<thesis>Through the use of ___ Alvarez makes the sicial commentary that ___</thesis>
+
+<topic>One//Another//The final place we see this social commentary is on page ___ where ___</topic>
+<analysis>This shows Alvarez's criticism by//through ___</analysis>
+
+<drop>{Leave them thinking // Call to action}</drop>
