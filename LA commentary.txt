@@ -20,7 +20,7 @@ Literary Analysis of Social Commentary Essay
 
 <hook></hook>
 <transition></transition>
-<thesis>Through the use of ___ Alvarez makes the sicial commentary that ___</thesis>
+<thesis>Through the use of ___ Alvarez makes the social commentary that ___</thesis>
 
 <topic>One//Another//The final place we see this social commentary is on page ___ where ___</topic>
 <analysis>This shows Alvarez's criticism by//through ___</analysis>
