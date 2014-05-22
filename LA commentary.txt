@@ -2,8 +2,6 @@ Zachary Eggert
 Lit & Comp Honours, Period 5
 2014:05:19
 Literary Analysis of Social Commentary Essay
-
-[]Through the use of selective narration and character interactions Alvarez showcases her opinion on gender roles and shows that in times of extreme mistreatment they can overcome it better than any other time.[]
  
 <TITLE>
 
@@ -20,7 +18,7 @@ Literary Analysis of Social Commentary Essay
 
 <hook></hook>
 <transition></transition>
-<thesis>Through the use of ___ Alvarez makes the social commentary that ___</thesis>
+<thesis>Through the use of Selective narration and character interaction Alvarez makes the social commentary that in times of extreme mistreatment women can overcome it better than any other time.</thesis>
 
 <topic>One//Another//The final place we see this social commentary is on page ___ where ___</topic>
 <analysis>This shows Alvarez's criticism by//through ___</analysis>
