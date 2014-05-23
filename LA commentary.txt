@@ -22,10 +22,10 @@ Literary Analysis of Social Commentary Essay
 [thesis][drop]
 
 
-<title></title>
-<hook></hook>
-<transition></transition>
-<thesis>Through the use of Selective narration and character interaction Alvarez makes the social commentary that in times of extreme mistreatment women can overcome it better than any other time.</thesis>
+<title>?Adversity Overcome</title>
+<hook>?The oppressed have always overcame the challenges in front of them throughout all of history, the Jewish people in Ancient Egypt, Africans in America, and unfortunately women all over the world.</hook>
+<transition>In The Times Of The Butterflies follows the story of four such women in the early to mid 20th century, a time of approaching revolution for their country, the Dominican Republic, as well as a time of approaching revolution in the treatment of women.</transition>
+<thesis>Through the use of Selective narration and character interaction Alvarez makes the social commentary that in times of mistreatment women can overcome it better than any other time.</thesis>
 
 <topic>One//Another//The final place we see this social commentary is on page ___ where ___</topic>
 <analysis>This shows Alvarez's criticism by//through ___</analysis>
