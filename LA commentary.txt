@@ -6,15 +6,19 @@ Literary Analysis of Social Commentary Essay
 <TITLE>
 
 <HOOK><TRANSITION><THESIS>	->
+[hook][transition][thesis]
 
 <TOPIC><QUOTE><ANALYSIS>	->>
+[topic][quote][analysis]
 
 <TOPIC><QUOTE><ANALYSIS>	->>
+[topic][quote][analysis]
 
 <TOPIC><QUOTE><ANALYSIS>	->>
+[topic][quote][analysis]
 
 <THESIS><DROP>				<<<-
-
+[thesis][drop]
 
 <hook></hook>
 <transition></transition>
