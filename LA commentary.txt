@@ -22,7 +22,7 @@ Literary Analysis of Social Commentary Essay
 [thesis][drop]
 
 
-<title>
+<title></title>
 <hook></hook>
 <transition></transition>
 <thesis>Through the use of Selective narration and character interaction Alvarez makes the social commentary that in times of extreme mistreatment women can overcome it better than any other time.</thesis>
