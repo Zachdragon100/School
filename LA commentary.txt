@@ -23,11 +23,18 @@ Literary Analysis of Social Commentary Essay
 
 
 <title>?Adversity Overcome</title>
-<hook>?The oppressed have always overcame the challenges in front of them throughout all of history, the Jewish people in Ancient Egypt, Africans in America, and unfortunately women all over the world.</hook>
-<transition>{u}In The Times Of The Butterflies{/u} follows the story of four such women in the early to mid 20th century, a time of approaching revolution for their country, the Dominican Republic, as well as a time of approaching revolution in the treatment of women.</transition>
+<hook>?The oppressed have always overcome the challenges in front of them throughout all of history, the Jewish people in Ancient Egypt, Africans in America, and unfortunately women all over the world.</hook>
+<transition>{u}In The Times Of The Butterflies{/u} follows the story of four such women named Mirabal in the early to mid 20th century, a time of approaching revolution for their country, the Dominican Republic, as well as a time of approaching revolution in the treatment of women.</transition>
 <thesis>Through the use of Selective narration and character interaction Alvarez makes the social commentary that in times of mistreatment women can overcome it better than any other time.</thesis>
+
 
 <topic>One//Another//The final place we see this social commentary is on page ___ where ___</topic>
 <analysis>This shows Alvarez's criticism by//through ___</analysis>
+
+<para-I>One way in which Alvarez portrays her commentary is the way she narrates the story, it is very selective in the topics it covers and from whom it is viewed. Alvarez asserts that this is a story about four girls and not anyone else, thus it is only narrated from their perspectives. In addition to this she practically skips over some parts of the story that are unimportant to the story of the girls, such as the death of their father around page 118; "[Minerva] We've travelled almost the full length of the island and can report that every corner is wet, every river overflows its banks, every rain barrel is filled to the brim, every wall washed clean of writing no one knows how to read anyway." straight to "[Mate] I feel like dying myself! I cant believe {i}she{/i} came to the funeral mass..." As I said, I believe this is Alvarez's attempt to make this story as much about the girls as possible, and avoid involving any major events that in the long run have little to do with this topic and focus on women.</para-I>
+
+<para-II>Another place we see Alvarez's commentary is around page 180, where Dedé is considering leaving her husband Jaimito. "She would leave him. Next to that decision, attending the underground meeting over at Patria's was nothing but a small step... Their life together had collapsed. From puppydog devotion he had moved on to a moody bossiness with intermittent periods of dogged remorse... As the day drew closer, Dedé was beset by doubts, particularly when she thought about her boys." This shows that she felt really inclined to stay with Jaimito, no matter how she felt. She didn't really have a say in the matter. She followed her husband like a pet rather than standing beside him as a person, and she was treated poorly as a result.</para-II>
+
+<para-III>The final example of where we see Alvarez's commentary is on page 10, where the girls are talking with their parents. "'I asked the talking board what I would be when I grew up, and it said a lawyer'... 'Ay, Dios Mio, spare me'... 'Just what we need, skirts in the law' 'It is just what this country needs.'" The girls didn't have very much support for being strong women later in life, but they grew up to be so anyway. Even with the world saying they can't they do.</para-III>
 
 <drop>{Leave them thinking // Call to action}</drop>
