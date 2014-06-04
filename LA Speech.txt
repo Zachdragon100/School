@@ -1,1 +1,33 @@
-//Speech file
+
+Speech
+
+Topic: America is one of the worst countries in the world.
+  
+  
+Point-I:    Hypocrisy
+  
+  Subpoint:   Middle East
+    
+  Subpoint:   Lying to our citizens
+    
+  Subpoint:   Break from England
+    
+  
+Point-II:   Greed
+  
+  Subpoint:   Wealth distribution
+    
+  Subpoint:   Insatisfaction with living standards
+    
+  Subpoint:   Taxation
+    
+  
+Point-III:  We're babies
+  
+  Subpoint:   Taxation
+    
+  Subpoint:   Justice System
+    
+  Subpoint:   Terrorism
+    
+  
